@@ -9,7 +9,7 @@ A conversational AI chatbot built with **Streamlit** and **LangChain** that main
 ## 🛠️ Tech Stack
 
 - **Frontend** — Streamlit
-- **Backend** — Python, LangChain
+- **Backend** — Python, LangChain,LangGraph
 - **AI Model** — Google Gemini API
 - **Deployment** — Render
 
