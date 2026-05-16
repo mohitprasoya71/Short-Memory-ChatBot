@@ -1,0 +1,6 @@
+langchain
+langgraph
+dotenv
+streamlit
+typing
+langchain_google_genai
