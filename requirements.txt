@@ -5,3 +5,6 @@ streamlit
 typing
 langchain_google_genai
 langgraph-checkpoint-sqlite
+sqlite3
+langchain_core
+typing
